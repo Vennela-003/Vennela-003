@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vennela-003&show_icons=true&locale=en" alt="vennela-003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vennela-003&" alt="vennela-003" /></p>
+
+##  Connect with Me
+** LinkedIn : www.linkedin.com/in/nvennela
+** Email : vennelanainar2003@gmail.com
