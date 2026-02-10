@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SQL, Data Analysis, Power BI, Tableau, Excel, Python Basics**
 
-- 📫 How to reach me **vennelaninar2003@gmail.com**
+- 📫 How to reach me **vennelanainar2003@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning raw data into meaningful business insights.**
 
