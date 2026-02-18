@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vennela-003&label=Profile%20views&color=0e75b6&style=flat" alt="vennela-003" /> </p>
 
-- 🔭 I’m currently working on **Insurance Analytics**
+- 🔭 I’m currently working on **Insurance and CRM Analytics**
 
 - 🌱 I’m currently learning **Advanced SQL, Power BI Dashboarding, and Data Analytics Techniques.**
 
