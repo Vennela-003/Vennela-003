@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vennela</h1>
+<h1 align="center">Hi 👋, I'm  Ninar Vennela</h1>
 <h3 align="center">A passionate Data Analyst with strong skills in SQL, Python, Power BI, Tableau and Excel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vennela-003&label=Profile%20views&color=0e75b6&style=flat" alt="vennela-003" /> </p>
