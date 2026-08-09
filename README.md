@@ -36,9 +36,9 @@
 
 | Project | Description | Tools Used |
 |---|---|---|
-| [Insurance Analytics](https://github.com/Vennela-003/Insurence-Analytics) | One-line summary of what it does and the business problem it solves | SQL, Power BI |
-| [CRM-Analytics](https://github.com/Vennela-003/CRM-Analytics) | One-line summary of what it does and the business problem it solves | Python, Excel |
-| [Custome Churn Analysis](https://github.com/Vennela-003/Customer-Churn-Analysis-PowerBI) | One-line summary of what it does and the business problem it solves | Tableau, SQL |
+| [Insurance Analytics](https://github.com/Vennela-003/Insurence-Analytics) | Built an interactive dashboard to analyze policy performance, claims trends, and customer insights for data-driven decision-making. | SQL, Power BI |
+| [CRM-Analytics](https://github.com/Vennela-003/CRM-Analytics) | Analyzed customer behavior and engagement data to identify trends that improve retention and business growth. | Python, Excel |
+| [Custome Churn Analysis](https://github.com/Vennela-003/Customer-Churn-Analysis-PowerBI) | Developed a Power BI dashboard to identify churn patterns and support customer retention strategies using SQL and Excel. | Power BI.
 
 > 💡 Replace these with your actual repo links — pin your best 3–6 repos on your GitHub profile too (click "Customize your pins" on your profile page).
 
