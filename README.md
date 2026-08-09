@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vennela Ninar</h1>
+<h1 align="center">Hi 👋, I'm Ninar Vennela </h1>
 <h3 align="center">A passionate Data Analyst turning raw data into meaningful business insights</h3>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 | Project | Description | Tools Used |
 |---|---|---|
-| [Insurance Analytics](https://github.com/Vennela-003/Insurence-Analytics) | Built an interactive dashboard to analyze policy performance, claims trends, and customer insights for data-driven decision-making. | SQL, Power BI | Tableau
+| [Insurance Analytics](https://github.com/Vennela-003/Insurence-Analytics) | Built an interactive dashboard to analyze policy performance, claims trends, and customer insights for data-driven decision-making. | SQL, Power BI | Tableau, Python |
 | [CRM-Analytics](https://github.com/Vennela-003/CRM-Analytics) | Analyzed customer behavior and engagement data to identify trends that improve retention and business growth. | Python, Excel, MY SQL, Tableau |
 | [Custome Churn Analysis](https://github.com/Vennela-003/Customer-Churn-Analysis-PowerBI) | Developed a Power BI dashboard to identify churn patterns and support customer retention strategies using SQL and Excel. | Power BI.
 
