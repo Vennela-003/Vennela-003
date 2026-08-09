@@ -23,7 +23,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-/n
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -37,9 +36,9 @@
 
 | Project | Description | Tools Used |
 |---|---|---|
-| [Project Name 1](https://github.com/nvennela/repo-link) | One-line summary of what it does and the business problem it solves | SQL, Power BI |
-| [Project Name 2](https://github.com/nvennela/repo-link) | One-line summary of what it does and the business problem it solves | Python, Excel |
-| [Project Name 3](https://github.com/nvennela/repo-link) | One-line summary of what it does and the business problem it solves | Tableau, SQL |
+| [Insurance Analytics](https://github.com/Vennela-003/Insurence-Analytics) | One-line summary of what it does and the business problem it solves | SQL, Power BI |
+| [CRM-Analytics](https://github.com/Vennela-003/CRM-Analytics) | One-line summary of what it does and the business problem it solves | Python, Excel |
+| [Custome Churn Analysis](https://github.com/Vennela-003/Customer-Churn-Analysis-PowerBI) | One-line summary of what it does and the business problem it solves | Tableau, SQL |
 
 > 💡 Replace these with your actual repo links — pin your best 3–6 repos on your GitHub profile too (click "Customize your pins" on your profile page).
 
