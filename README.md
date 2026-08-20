@@ -44,13 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvennela&show_icons=true&theme=default" alt="nvennela's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvennela" alt="nvennela's streak stats" />
-</p>
 
 ---
 
