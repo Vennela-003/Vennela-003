@@ -43,12 +43,14 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvennela&show_icons=true&theme=default" alt="nvennela's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vennela-003&show_icons=true&theme=default" alt="Vennela's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvennela" alt="nvennela's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vennela-003&theme=default" alt="Vennela's GitHub Streak" />
 </p>
 
 
