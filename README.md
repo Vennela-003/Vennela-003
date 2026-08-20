@@ -45,11 +45,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vennela-003&show_icons=true&theme=default" alt="Vennela's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vennela-003&theme=default" alt="Vennela's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Vennela-003" alt="Vennela's GitHub Streak" />
 </p>
 
 
